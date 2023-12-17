@@ -314,7 +314,7 @@ h2 {
 }
 
 .customers-section-list-element {
-    width: calc(100% - 120px) / 6;
+    width: calc((100% - 120px) / 6);
     height: 88px;
     width: 168px;
 }
