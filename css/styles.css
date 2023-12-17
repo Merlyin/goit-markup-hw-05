@@ -315,6 +315,7 @@ p {
     margin-top: 72px;
     display: flex;
     gap: 24px;
+    padding: 0;
 }
 
 .customers-section-list-element {
@@ -387,7 +388,6 @@ p {
 }
 
 .footer-social-media-list {
-    margin-top: 16px;
     display: flex;
     gap: 16px;
 }
